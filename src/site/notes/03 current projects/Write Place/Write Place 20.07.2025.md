@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/03-current-projects/write-place/write-place-20-07-2025/","tags":["gardenEntry"]}
+{"dg-publish":true,"permalink":"/03-current-projects/write-place/write-place-20-07-2025/"}
 ---
 
 *This is a short story that was written during a writing meeting. Had about an hour to write it, so if anything it’s just a rough draft.
