@@ -2,6 +2,8 @@
 {"dg-publish":true,"permalink":"/03-current-projects/write-place/write-place-20-07-2025/","tags":["gardenEntry"]}
 ---
 
+*This is a short story that was written during a writing meeting. Had about an hour to write it, so if anything it’s just a rough draft.
+Still, I’m happy with putting together about 380 words within an hour.*
 # prompts
 ## character
 - a woman who murders misogynist
