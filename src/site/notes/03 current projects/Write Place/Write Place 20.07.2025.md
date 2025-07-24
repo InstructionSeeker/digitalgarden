@@ -1,8 +1,8 @@
 ---
-{"dg-publish":true,"permalink":"/03-current-projects/write-place/write-place-20-07-2025/","created":"2025-07-20T18:38:16.800+02:00","updated":"2025-07-23T20:05:19.151+02:00"}
+{"dg-publish":true,"permalink":"/03-current-projects/write-place/write-place-20-07-2025/","tags":["writing"],"created":"2025-07-20T18:38:16.800+02:00","updated":"2025-07-24T02:47:49.877+02:00"}
 ---
 
-*This is a short story that was written during a writing meeting. Had about an hour to write it, so if anything it’s just a rough draft.
+*This is a short story that was written during a writing meeting. Had about an hour to write it, so if anything it’s just a rough draft. Very barebones, but I’m sharing the progress…
 Still, I’m happy with putting together about 380 words within an hour.*
 
 - - -
