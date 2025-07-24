@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"projects/Write Place/The Write Place.md","permalink":"/projects/write-place/the-write-place/","created":"2025-07-23T19:14:31.133+02:00","updated":"2025-07-24T20:37:55.625+02:00"}
+{"dg-publish":true,"dg-path":"projects/Write Place/The Write Place.md","permalink":"/projects/write-place/the-write-place/","pinned":true,"created":"2025-07-23T19:14:31.133+02:00","updated":"2025-07-24T21:12:20.258+02:00"}
 ---
 
 This is nothing too serious, just a writing practice.
@@ -7,7 +7,8 @@ This is nothing too serious, just a writing practice.
 What you can expect here is that I happen to gravitate to horror and unexplainable themes. Putting the most focus on building the atmosphere.
 
 ``` dataview
-list from "03 current projects/Write Place/prompts"
+list
+from "03 current projects/Write Place/prompts"
 ```
 
 
