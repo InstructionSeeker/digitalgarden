@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/03-current-projects/write-place/the-write-place/","created":"2025-07-23T19:14:31.133+02:00","updated":"2025-07-24T20:37:55.625+02:00"}
+{"dg-publish":true,"dg-path":"projects/Write Place/The Write Place.md","permalink":"/projects/write-place/the-write-place/","created":"2025-07-23T19:14:31.133+02:00","updated":"2025-07-24T20:37:55.625+02:00"}
 ---
 
 This is nothing too serious, just a writing practice.
