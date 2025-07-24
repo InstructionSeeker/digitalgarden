@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/03-current-projects/mainpage/","title":"\"wtf\"","pinned":true,"tags":["gardenEntry"],"created":"2025-07-23T19:15:13.755+02:00","updated":"2025-07-24T19:32:04.132+02:00"}
+{"dg-publish":true,"permalink":"/03-current-projects/mainpage/","title":"mainpage","pinned":true,"tags":["gardenEntry"],"created":"2025-07-23T19:15:13.755+02:00","updated":"2025-07-24T20:36:53.848+02:00"}
 ---
 
 *loose thoughts…*
