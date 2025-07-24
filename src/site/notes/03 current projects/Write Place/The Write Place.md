@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"projects/Write Place/The Write Place.md","permalink":"/projects/write-place/the-write-place/","pinned":true,"created":"2025-07-23T19:14:31.133+02:00","updated":"2025-07-24T21:12:20.258+02:00"}
+{"dg-publish":true,"dg-path":"projects/Write Place/The Write Place.md","permalink":"/projects/write-place/the-write-place/","pinned":true,"created":"2025-07-23T19:14:31.133+02:00","updated":"2025-07-24T21:15:10.702+02:00"}
 ---
 
 This is nothing too serious, just a writing practice.
@@ -11,7 +11,10 @@ list
 from "03 current projects/Write Place/prompts"
 ```
 
-
+``` dataview
+list
+from "projects/Write Place/prompts"
+```
 
 
 [[03 current projects/Write Place/prompts/Write Place 1\|Write Place 1]]
