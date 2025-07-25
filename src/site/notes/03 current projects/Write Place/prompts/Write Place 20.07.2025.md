@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"projects/Write Place/prompts/Write Place 20.07.2025.md","permalink":"/projects/write-place/prompts/write-place-20-07-2025/","tags":["writing"],"created":"2025-07-20T18:38:16.800+02:00","updated":"2025-07-24T19:30:59.107+02:00"}
+{"dg-publish":true,"permalink":"/03-current-projects/write-place/prompts/write-place-20-07-2025/","tags":["writing"],"created":"2025-07-20T18:38:16.800+02:00","updated":"2025-07-24T19:30:59.107+02:00"}
 ---
 
 *This is a short story that was written during a writing meeting. Had about an hour to write it, so if anything it’s just a rough draft. Very barebones, but I’m sharing the progress…
