@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/03-current-projects/write-place/prompts/write-place-27-07-2025/","tags":["wriiting"],"created":"2025-07-27T18:17:05.702+02:00","updated":"2025-07-27T20:11:11.228+02:00"}
+{"dg-publish":true,"permalink":"/03-current-projects/write-place/prompts/write-place-27-07-2025/","tags":["wriiting"],"created":"2025-07-27T18:17:05.702+02:00","updated":"2025-07-27T23:34:23.767+02:00"}
 ---
 
 # prompts
@@ -30,7 +30,7 @@ exploration… observing people, how they behave? the mechanics/nature of their 
 wolf → observing and disappearing
 breaking rules → 
 plant operating in unusual way → an organic community, functioning through some pathologic mechanisms
-cork → Swedish city?
+cork → I know it’s in Ireland, but I have a better grasp of Sweden, ideally it’d be fictional city (can’t make it up in an hour)
 slippery buildings →
 
 - - -
