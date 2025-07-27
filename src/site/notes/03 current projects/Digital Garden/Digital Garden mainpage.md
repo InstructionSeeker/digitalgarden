@@ -13,6 +13,7 @@ think about it as thinking out loud to figure out what you say makes sense and i
 ## recent entries
 | File                                                                                          | date created |
 | --------------------------------------------------------------------------------------------- | ------------ |
+| [[03 current projects/Write Place/prompts/Write Place 27.07.2025\|Write Place 27.07.2025]] | 27-07-2025   |
 | [[03 current projects/Write Place/The Write Place\|The Write Place]]                       | 23-07-2025   |
 | [[03 current projects/Write Place/prompts/Write Place 20.07.2025\|Write Place 20.07.2025]] | 20-07-2025   |
 
