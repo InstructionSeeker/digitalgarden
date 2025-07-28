@@ -14,6 +14,7 @@ so, don’t take anything too seriously here*
 ## recent entries
 | File                                                                                          | date created |
 | --------------------------------------------------------------------------------------------- | ------------ |
+| [[03 current projects/Digital Garden/manifesting page\|manifesting page]]                  | 28-07-2025   |
 | [[03 current projects/Write Place/prompts/Write Place 27.07.2025\|Write Place 27.07.2025]] | 27-07-2025   |
 | [[03 current projects/Write Place/The Write Place\|The Write Place]]                       | 23-07-2025   |
 | [[03 current projects/Write Place/prompts/Write Place 20.07.2025\|Write Place 20.07.2025]] | 20-07-2025   |

@@ -1,7 +1,11 @@
 ---
-{"dg-publish":true,"permalink":"/03-current-projects/write-place/prompts/write-place-27-07-2025/","tags":["wriiting"],"created":"2025-07-27T18:17:05.702+02:00","updated":"2025-07-27T23:34:23.767+02:00"}
+{"dg-publish":true,"permalink":"/03-current-projects/write-place/prompts/write-place-27-07-2025/","tags":["wriiting"],"created":"2025-07-27T18:17:05.702+02:00","updated":"2025-07-28T23:04:20.586+02:00"}
 ---
 
+*a little bit less than 400 words
+perhaps next time I should push myself to focus on writing as much as possible, and less on structure/building the atmosphere*
+
+- - -
 # prompts
 - dark space in the head
 - horror themes again
