@@ -1,8 +1,8 @@
 ---
-{"dg-publish":true,"dg-path":"00 main","permalink":"/00-main/","title":"mainpage","pinned":true,"tags":["gardenEntry"],"created":"2025-07-23T19:15:13.755+02:00","updated":"2025-07-27T23:19:21.817+02:00"}
+{"dg-publish":true,"dg-path":"00 main","permalink":"/00-main/","title":"mainpage","pinned":true,"tags":["gardenEntry"],"created":"2025-07-23T19:15:13.755+02:00","updated":"2025-08-01T17:16:46.239+02:00"}
 ---
 
-*this space is a “Digital Garden”
+*this space is a “Digital Garden” [(what is a Digital Garden?)](https://www.thunknotes.com/blog/what-is-a-digital-garden)
 a garden for loose thoughts and ideas where they have a chance to grow under a public visibility
 think about it as thinking out loud to figure out what you say makes sense and if you collect any looks from other people taking you as an idiot
 so, don’t take anything too seriously here*
