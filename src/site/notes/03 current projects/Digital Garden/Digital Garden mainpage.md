@@ -16,13 +16,15 @@ so, don’t take anything too seriously here*
 | --------------------------------------------------------------------------------------------- | ------------ |
 | [[03 current projects/Digital Garden/manifesting page\|manifesting page]]                  | 28-07-2025   |
 | [[03 current projects/Write Place/prompts/Write Place 27.07.2025\|Write Place 27.07.2025]] | 27-07-2025   |
+| [[Notes 📒/Knowledge/Education/Psychology/personality types MBTI/INFJ\|INFJ]]              | 24-07-2025   |
 | [[03 current projects/Write Place/The Write Place\|The Write Place]]                       | 23-07-2025   |
 | [[03 current projects/Write Place/prompts/Write Place 20.07.2025\|Write Place 20.07.2025]] | 20-07-2025   |
 
 { .block-language-dataview}
 ## recent edits
-| File | date editted |
-| ---- | ------------ |
+| File                                                                             | date editted |
+| -------------------------------------------------------------------------------- | ------------ |
+| [[Notes 📒/Knowledge/Education/Psychology/personality types MBTI/INFJ\|INFJ]] | 31-07-2025   |
 
 { .block-language-dataview}
 # topics
