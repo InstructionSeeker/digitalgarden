@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"00 main","permalink":"/00-main/","title":"mainpage","pinned":true,"tags":["gardenEntry"],"created":"2025-07-23T19:15:13.755+02:00","updated":"2025-08-05T18:13:43.058+02:00"}
+{"dg-publish":true,"dg-path":"00 main","permalink":"/00-main/","title":"mainpage","pinned":true,"tags":["gardenEntry"],"created":"2025-07-23T19:15:13.755+02:00","updated":"2025-08-05T18:19:46.084+02:00"}
 ---
 
 *this space is a “Digital Garden” [(what is a Digital Garden?)](https://www.thunknotes.com/blog/what-is-a-digital-garden)
@@ -12,13 +12,13 @@ so, don’t take anything too seriously here*
 - - -
 # activity
 ## recent entries
-| File                                                                                          | date created |
-| --------------------------------------------------------------------------------------------- | ------------ |
-| [[03 current projects/Digital Garden/manifesting page\|manifesting page]]                  | 28-07-2025   |
-| [[03 current projects/Write Place/prompts/Write Place 27.07.2025\|Write Place 27.07.2025]] | 27-07-2025   |
-| [[Notes 📒/Knowledge/Education/Psychology/personality types MBTI/INFJ\|INFJ]]              | 24-07-2025   |
-| [[03 current projects/Write Place/The Write Place\|The Write Place]]                       | 23-07-2025   |
-| [[03 current projects/Write Place/prompts/Write Place 20.07.2025\|Write Place 20.07.2025]] | 20-07-2025   |
+| File                                                                                           | date created |
+| ---------------------------------------------------------------------------------------------- | ------------ |
+| [[Notes 📒/Knowledge/Education/Psychology/concepts/34 talenty Gallupa\|34 talenty Gallupa]] | 04-08-2025   |
+| [[03 current projects/Digital Garden/manifesting page\|manifesting page]]                   | 28-07-2025   |
+| [[03 current projects/Write Place/prompts/Write Place 27.07.2025\|Write Place 27.07.2025]]  | 27-07-2025   |
+| [[Notes 📒/Knowledge/Education/Psychology/personality types MBTI/INFJ\|INFJ]]               | 24-07-2025   |
+| [[03 current projects/Write Place/The Write Place\|The Write Place]]                        | 23-07-2025   |
 
 { .block-language-dataview}
 ## recent edits
