@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"00 main","permalink":"/00-main/","title":"mainpage","pinned":true,"tags":["gardenEntry"],"created":"2025-07-23T19:15:13.755+02:00","updated":"2025-08-01T17:16:46.239+02:00"}
+{"dg-publish":true,"dg-path":"00 main","permalink":"/00-main/","title":"mainpage","pinned":true,"tags":["gardenEntry"],"created":"2025-07-23T19:15:13.755+02:00","updated":"2025-08-05T13:56:37.311+02:00"}
 ---
 
 *this space is a “Digital Garden” [(what is a Digital Garden?)](https://www.thunknotes.com/blog/what-is-a-digital-garden)
@@ -30,7 +30,18 @@ so, don’t take anything too seriously here*
 # topics
 - [[03 current projects/Write Place/The Write Place\|The Write Place]]
 
-- - - 
+# current interests:
+- [[Notes 📒/Knowledge/Education/Psychology/psychology\|psychology]]
+- ui/ux design
+- [[03 current projects/Write Place/The Write Place\|The Write Place]]
+
+# music obsession:
+
+<iframe data-testid="embed-iframe" style="border-radius:12px" src="https://open.spotify.com/embed/track/5PTqiBB5jDB72t00gat5jr?utm_source=generator&theme=0" width="100%" height="152" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+
+
+- - -
+
 If you want to contact me for whatever reason:
 Discord: femorimetrum
 
