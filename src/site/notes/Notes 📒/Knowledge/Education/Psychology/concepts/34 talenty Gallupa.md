@@ -1,0 +1,50 @@
+---
+{"dg-publish":true,"permalink":"/notes/knowledge/education/psychology/concepts/34-talenty-gallupa/","created":"2025-08-04T04:43:44.389+02:00","updated":"2025-08-05T18:14:27.528+02:00"}
+---
+
+# executing
+- discipline
+- restorative
+- responsibility
+- arranger
+- focus
+- achiever
+- **belief**
+- deliberative
+- consistency
+# influencing
+- woo
+- command
+- maximizer
+- communication
+- significance
+- self
+- activator
+- competition
+# relationship building
+- adaptability
+- **empathy**
+- individualization
+- connectedness
+- includer
+- relator
+- developer
+- positivity
+- harmony
+# strategic thinking
+- **strategic**
+- **learner**
+- futuristic
+- input
+- idetion
+- **analytical**
+- intellection
+- context
+
+# high5
+- strategist
+- philomath
+- empathizer
+- believer
+- brainstormer
+![Pasted image 20250804054016.png](/img/user/Notes%20%F0%9F%93%92/Unsorted/Pasted%20image%2020250804054016.png)
