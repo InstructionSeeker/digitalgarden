@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/notes/knowledge/education/psychology/concepts/34-talenty-gallupa/","created":"2025-08-04T04:43:44.389+02:00","updated":"2025-08-05T18:14:27.528+02:00"}
+{"dg-publish":true,"permalink":"/notes/knowledge/education/psychology/concepts/34-talenty-gallupa/","created":"2025-08-04T04:43:44.389+02:00","updated":"2025-08-07T14:24:57.183+02:00"}
 ---
 
 # executing
@@ -41,7 +41,7 @@
 - intellection
 - context
 
-# high5
+# my high5
 - strategist
 - philomath
 - empathizer
