@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"00 main","permalink":"/00-main/","title":"mainpage","pinned":true,"tags":["gardenEntry"],"created":"2025-07-23T19:15:13.755+02:00","updated":"2025-08-15T16:53:18.173+02:00"}
+{"dg-publish":true,"dg-path":"00 main","permalink":"/00-main/","title":"mainpage","pinned":true,"tags":["gardenEntry"],"created":"2025-07-23T19:15:13.755+02:00","updated":"2025-08-15T17:16:35.425+02:00"}
 ---
 
 *this space is a “Digital Garden” 🌱 [(what is a Digital Garden?)](https://www.thunknotes.com/blog/what-is-a-digital-garden)
@@ -37,7 +37,7 @@ so, don’t take anything too seriously here*
 - [[Notes 📒/Knowledge/Education/Psychology/psychology\|psychology]] – [[Notes 📒/Knowledge/Education/Psychology/personality types\|personality types]]
 - ui/ux design
 - [[03 current projects/Write Place/The Write Place\|The Write Place]]
-## other^[to potentially share here]:
+## other stuff to potentially share here:
 - [[03 current projects/Music/music production\|music production]]/[[03 current projects/Music/sound engineering\|sound engineering]]
 - philosophy
 - data analysis
