@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"00 main","permalink":"/00-main/","title":"mainpage","pinned":true,"tags":["gardenEntry"],"created":"2025-07-23T19:15:13.755+02:00","updated":"2025-08-15T16:51:55.605+02:00"}
+{"dg-publish":true,"dg-path":"00 main","permalink":"/00-main/","title":"mainpage","pinned":true,"tags":["gardenEntry"],"created":"2025-07-23T19:15:13.755+02:00","updated":"2025-08-15T16:53:18.173+02:00"}
 ---
 
 *this space is a “Digital Garden” 🌱 [(what is a Digital Garden?)](https://www.thunknotes.com/blog/what-is-a-digital-garden)
@@ -22,11 +22,13 @@ so, don’t take anything too seriously here*
 
 { .block-language-dataview}
 ## recent edits
-| File                                                                             | date editted |
-| -------------------------------------------------------------------------------- | ------------ |
-| [[Notes 📒/Knowledge/Education/Psychology/personality types MBTI/INFJ\|INFJ]] | 31-07-2025   |
+| File                                                                                          | date editted |
+| --------------------------------------------------------------------------------------------- | ------------ |
+| [[Notes 📒/Knowledge/Education/Psychology/personality types MBTI\|personality types MBTI]] | 15-08-2025   |
+| [[Notes 📒/Knowledge/Education/Psychology/personality types MBTI/INFJ\|INFJ]]              | 31-07-2025   |
 
 { .block-language-dataview}
+- - -
 # topics
 - [[03 current projects/Write Place/The Write Place\|The Write Place]]
 
