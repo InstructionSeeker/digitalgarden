@@ -47,4 +47,4 @@
 - empathizer
 - believer
 - brainstormer
-![Pasted image 20250804054016.png](/img/user/Notes%20%F0%9F%93%92/Unsorted/Pasted%20image%2020250804054016.png)
+![Pasted image 20250804054016.png](/img/user/Notes%20%F0%9F%93%92/00%20Unsorted/Pasted%20image%2020250804054016.png)
