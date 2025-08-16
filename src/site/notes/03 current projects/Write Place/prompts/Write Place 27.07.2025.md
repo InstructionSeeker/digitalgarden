@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/03-current-projects/write-place/prompts/write-place-27-07-2025/","tags":["wriiting"],"noteIcon":"","created":"2025-07-27T18:17:05.702+02:00","updated":"2025-07-28T23:04:20.586+02:00"}
+{"dg-publish":true,"permalink":"/03-current-projects/write-place/prompts/write-place-27-07-2025/","tags":["wriiting"],"noteIcon":"1","created":"2025-07-27T18:17:05.702+02:00","updated":"2025-08-16T02:51:01.488+02:00"}
 ---
 
 *a little bit less than 400 words
