@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/notes/knowledge/education/psychology/personality-types-mbti/infj/","noteIcon":"","created":"2025-07-24T21:48:35.652+02:00","updated":"2025-08-01T15:36:03.027+02:00"}
+{"dg-publish":true,"permalink":"/notes/knowledge/education/psychology/personality-types-mbti/infj/","noteIcon":"1","created":"2025-07-24T21:48:35.652+02:00","updated":"2025-08-16T03:00:11.108+02:00"}
 ---
 
 hi, it’s me!

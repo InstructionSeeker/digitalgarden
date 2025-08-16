@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/06-hobbies/music/grooveboxes/","noteIcon":"","created":"2025-08-15T16:37:53.217+02:00","updated":"2025-08-16T02:23:19.694+02:00"}
+{"dg-publish":true,"permalink":"/06-hobbies/music/grooveboxes/","noteIcon":"1","created":"2025-08-15T16:37:53.217+02:00","updated":"2025-08-16T02:58:35.814+02:00"}
 ---
 
 me figuring out how to go around learning doing some loops with grooveboxes…
