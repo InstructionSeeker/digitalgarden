@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/notes/knowledge/education/psychology/concepts/34-talenty-gallupa/","noteIcon":"1","created":"2025-08-04T04:43:44.389+02:00","updated":"2025-08-16T02:59:49.250+02:00"}
+{"date created":"2025-08-04","date modified":null,"dg-publish":true,"dg-home":null,"dg-note-icon":"1","tags":null,"aliases":null,"permalink":"/notes/knowledge/education/psychology/concepts/34-talenty-gallupa/","dgPassFrontmatter":true,"noteIcon":"1","created":"2025-08-04T04:43:44.389+02:00","updated":"2025-08-16T02:59:49.250+02:00"}
 ---
 
 # executing

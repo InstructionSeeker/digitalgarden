@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/03-current-projects/digital-garden/manifesting-page/","noteIcon":"1","created":"2025-07-28T23:13:16.934+02:00","updated":"2025-08-16T02:59:59.854+02:00"}
+{"date created":"2025-07-28","dg-publish":true,"dg-home":null,"dg-note-icon":"1","tags":null,"aliases":null,"permalink":"/03-current-projects/digital-garden/manifesting-page/","dgPassFrontmatter":true,"noteIcon":"1","created":"2025-07-28T23:13:16.934+02:00","updated":"2025-08-16T02:59:59.854+02:00"}
 ---
 
 ## who am I
