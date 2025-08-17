@@ -1,3 +1,4 @@
+<script src="https://d3js.org/d3.v7.min.js"></script>
 <div id="forest-graph">
     <div class="forest-body">
         {% for row in userComputed.forest.trees %}
@@ -21,4 +22,5 @@
         <div class="stat"><img src="/img/{{count.icon}}.svg" alt="{{count.label}}" />{{count.count}} {% if count.count > 1 %}{% if count.plural %}{{count.plural}}{% else %}{{count.label}}s{% endif %}{% else %}{{count.label}}{% endif %}</div>
         {% endfor %}
     </div>
+
 </div>
