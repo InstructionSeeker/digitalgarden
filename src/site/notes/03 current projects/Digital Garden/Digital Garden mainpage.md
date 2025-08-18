@@ -12,13 +12,13 @@ so, don’t take anything too seriously here*
 - - -
 # activity
 ## recent entries
-| File                                                                                             | date created |
-| ------------------------------------------------------------------------------------------------ | ------------ |
-| [[03 current projects/Music/Music production/vst plugins\|vst plugins]]                       | 18-08-2025   |
-| [[03 current projects/Music/Music production/experience with reaper\|experience with reaper]] | 18-08-2025   |
-| [[03 current projects/Digital Garden/testing page\|testing page]]                             | 16-08-2025   |
-| [[06 Hobbies/Music/grooveboxes\|grooveboxes]]                                                 | 15-08-2025   |
-| [[06 Hobbies/Cooking/grill\|grill]]                                                           | 08-08-2025   |
+| File                                                                                                      | date created |
+| --------------------------------------------------------------------------------------------------------- | ------------ |
+| [[03 current projects/creative/Music/Music production/vst plugins\|vst plugins]]                       | 18-08-2025   |
+| [[03 current projects/creative/Music/Music production/experience with reaper\|experience with reaper]] | 18-08-2025   |
+| [[03 current projects/Digital Garden/testing page\|testing page]]                                      | 16-08-2025   |
+| [[06 Hobbies/Music/grooveboxes\|grooveboxes]]                                                          | 15-08-2025   |
+| [[06 Hobbies/Cooking/grill\|grill]]                                                                    | 08-08-2025   |
 
 { .block-language-dataview}
 ## recent edits
@@ -30,15 +30,15 @@ so, don’t take anything too seriously here*
 { .block-language-dataview}
 - - -
 # topics
-- [[03 current projects/Write Place/The Write Place\|The Write Place]]
+- [[03 current projects/creative/Writing/Write Place/The Write Place\|The Write Place]]
 
 - - -
 # current obsessions:
 - [[Notes 📒/Knowledge/Education/Psychology/psychology\|psychology]] – [[Notes 📒/Knowledge/Education/Psychology/personality types\|personality types]]
 - ui/ux design
-- [[03 current projects/Write Place/The Write Place\|The Write Place]]
+- [[03 current projects/creative/Writing/Write Place/The Write Place\|The Write Place]]
 ## other stuff to potentially share here:
-- [[03 current projects/Music/music production\|music production]]/[[03 current projects/Music/sound engineering\|sound engineering]]
+- [[03 current projects/creative/Music/music production\|music production]]/[[03 current projects/creative/Music/sound engineering\|sound engineering]]
 - philosophy
 - data analysis
 
