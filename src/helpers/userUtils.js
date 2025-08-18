@@ -72,7 +72,9 @@ function forestData(data) {
 }
 
 function userComputed(data) {
-  return {};
+  return {
+    forest: forestData(data),
+  };
 }
 
 exports.userComputed = userComputed;
