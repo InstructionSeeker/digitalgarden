@@ -72,10 +72,16 @@ function forestData(data) {
 }
 
 function userComputed(data) {
-  console.log("Sample data:", JSON.stringify(data, null, 2));
+  if (data?.collections?.note) {
+    console.log(
+      "Sample notes:",
+      JSON.stringify(data.collections.note.slice(0, 3), null, 2)
+    );
+  } else {
+    console.log("No notes found in data.collections.note");
+  }
+
   return {
     forest: forestData(data),
   };
 }
-
-exports.userComputed = userComputed;
