@@ -1,7 +1,8 @@
 ---
-{"date created":"2025-07-20","dg-publish":true,"dg-home":false,"dg-note-icon":"1","tags":["writing"],"permalink":"/03-current-projects/write-place/prompts/write-place-20-07-2025/","dgPassFrontmatter":true,"noteIcon":"1","created":"2025-07-20T18:38:16.800+02:00","updated":"2025-08-16T02:50:53.401+02:00"}
+{"date created":"2025-07-20","dg-publish":true,"dg-home":false,"dg-note-icon":"1","tags":["creative/writing"],"permalink":"/03-current-projects/write-place/prompts/write-place-20-07-2025/","dgPassFrontmatter":true,"noteIcon":"1","created":"2025-07-20T18:38:16.800+02:00","updated":"2025-08-18T11:57:01.564+02:00"}
 ---
 
+#thewriteplace 
 *This is a short story that was written during a writing meeting. Had about an hour to write it, so if anything it’s just a rough draft. Very barebones, but I’m sharing the progress…
 Still, I’m happy with putting together about 380 words within an hour.*
 

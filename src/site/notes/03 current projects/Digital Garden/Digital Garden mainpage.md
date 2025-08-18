@@ -14,11 +14,11 @@ so, don’t take anything too seriously here*
 ## recent entries
 | File                                                                                           | date created |
 | ---------------------------------------------------------------------------------------------- | ------------ |
+| [[03 current projects/Music/Music production/vst plugins\|vst plugins]]                     | 18-08-2025   |
 | [[03 current projects/Digital Garden/testing page\|testing page]]                           | 16-08-2025   |
 | [[06 Hobbies/Music/grooveboxes\|grooveboxes]]                                               | 15-08-2025   |
 | [[06 Hobbies/Cooking/grill\|grill]]                                                         | 08-08-2025   |
 | [[Notes 📒/Knowledge/Education/Psychology/concepts/34 talenty Gallupa\|34 talenty Gallupa]] | 04-08-2025   |
-| [[03 current projects/Digital Garden/manifesting page\|manifesting page]]                   | 28-07-2025   |
 
 { .block-language-dataview}
 ## recent edits

@@ -1,7 +1,8 @@
 ---
-{"date created":"2025-07-27","dg-publish":true,"dg-home":null,"dg-note-icon":"1","tags":["wriiting"],"aliases":null,"permalink":"/03-current-projects/write-place/prompts/write-place-27-07-2025/","dgPassFrontmatter":true,"noteIcon":"1","created":"2025-07-27T18:17:05.702+02:00","updated":"2025-08-16T02:51:01.488+02:00"}
+{"date created":"2025-07-27","dg-publish":true,"dg-home":null,"dg-note-icon":"1","tags":["creative/writing"],"aliases":null,"permalink":"/03-current-projects/write-place/prompts/write-place-27-07-2025/","dgPassFrontmatter":true,"noteIcon":"1","created":"2025-07-27T18:17:05.702+02:00","updated":"2025-08-18T11:56:49.207+02:00"}
 ---
 
+#thewriteplace 
 *a little bit less than 400 words
 perhaps next time I should push myself to focus on writing as much as possible, and less on structure/building the atmosphere*
 
