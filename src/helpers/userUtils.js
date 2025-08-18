@@ -71,6 +71,8 @@ function forestData(data) {
   };
 }
 
+console.log("Sample data:", JSON.stringify(data, null, 2));
+
 function userComputed(data) {
   return {
     forest: forestData(data),
