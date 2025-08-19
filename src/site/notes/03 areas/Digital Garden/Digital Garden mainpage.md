@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-home":true,"dg-pinned":true,"dg-path":"00 main","dg-note-icon":"signpost","title":"mainpage","permalink":"/00-main/","pinned":true,"tags":["gardenEntry"],"dgPassFrontmatter":true,"noteIcon":"signpost","created":"2025-07-23T19:15:13.755+02:00","updated":"2025-08-19T14:57:38.176+02:00"}
+{"dg-publish":true,"dg-home":true,"dg-pinned":true,"dg-path":"00 main","dg-note-icon":"signpost","title":"mainpage","permalink":"/00-main/","pinned":true,"tags":["gardenEntry"],"dgPassFrontmatter":true,"noteIcon":"signpost","created":"2025-07-23T19:15:13.755+02:00","updated":"2025-08-19T15:14:41.893+02:00"}
 ---
 
 *this space is a “Digital Garden” 🌱 [(what is a Digital Garden?)](https://www.thunknotes.com/blog/what-is-a-digital-garden)
@@ -21,6 +21,7 @@ so, don’t take anything too seriously here*
 | [[03 areas/Cooking/grill\|grill]]                                                           | 08-08-2025   |
 
 { .block-language-dataview}
+
 ![[recent entries.base]]
 ## recent edits
 | File                                                                                          | date editted |
