@@ -1,5 +1,5 @@
 ---
-{"date created":"2025-08-18","date modified":null,"dg-publish":true,"dg-home":null,"dg-note-icon":null,"tags":["sound","sound_design","vfx"],"aliases":null,"permalink":"/03-areas/creative/music/music-production/vstplugins/vst-plugins/","dgPassFrontmatter":true,"noteIcon":null,"created":"2025-08-18T10:59:51.624+02:00","updated":"2025-08-19T13:13:08.408+02:00"}
+{"date created":"2025-08-18","date modified":null,"dg-publish":true,"dg-home":null,"dg-note-icon":null,"tags":["#sound","#sound_design","#vfx"],"aliases":null,"permalink":"/03-areas/creative/music/music-production/vstplugins/vst-plugins/","dgPassFrontmatter":true,"noteIcon":null,"created":"2025-08-18T10:59:51.624+02:00","updated":"2025-08-20T21:44:32.012+02:00"}
 ---
 
 **If you know any great free or cheap plugins, please let me know!!**
@@ -18,7 +18,8 @@ gotta replace serum, omnispehere and kontakt with something else…
 - Caster – idk
 - [[03 areas/creative/Music/Music production/vstplugins/Emergence\|Emergence]] – simple to use, gives some sort of sound repitition
 - Harvester – idk
-
+# on those:
+- [[A1TriggerGate\|A1TriggerGate]] – rhytmic sound cut off
 # next in line to check… /backlog
 - [[Vital\|Vital]] – synth
 - [[BBC Orchestra\|BBC Orchestra]] – synth
@@ -32,7 +33,6 @@ gotta replace serum, omnispehere and kontakt with something else…
 - [[Pneuma\|Pneuma]] – synth, trance type beat
 - [[T-Force Alpha Plus\|T-Force Alpha Plus]] – synth, trance type beat
 - [[BPB Dirty Filter\|BPB Dirty Filter]] – double filtr with gain, supposedly good for percussion
-- [[A1TriggerGate\|A1TriggerGate]] – rhytmic sound cut off
 - [[Reaktor 6\|Reaktor 6]] – synth
 - [[Vienna Synchron Player\|Vienna Synchron Player]] – synth
 - [[Kontakt\|Kontakt]]

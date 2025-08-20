@@ -5,4 +5,4 @@
 I didn’t like working with YT tutorials for [[03 areas/creative/Music/Music production/Reaper app\|Reaper app]]
 they talk either about stuff I already know, or explain stuff skipping things I have no idea how to follow up on
 
-instead I try the approach of learning with AI, gave ChatGPT the [[05 fleeting/AI prompts/sound engineering prompt\|sound engineering prompt]] and worked with [[Google live\|Google live]] to guide me through anything I’d struggle with
+instead I try the approach of learning with AI, gave ChatGPT the [[04 resources/AI prompts/sound engineering prompt\|sound engineering prompt]] and worked with [[Google live\|Google live]] to guide me through anything I’d struggle with
