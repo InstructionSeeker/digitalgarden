@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-home":true,"dg-pinned":true,"dg-path":"00 main","dg-note-icon":"signpost","title":"mainpage","permalink":"/00-main/","pinned":true,"tags":["gardenEntry"],"dgPassFrontmatter":true,"noteIcon":"signpost","created":"2025-07-23T19:15:13.755+02:00","updated":"2025-08-19T15:14:41.893+02:00"}
+{"dg-publish":true,"dg-home":true,"dg-pinned":true,"dg-path":"00 main","dg-note-icon":"signpost","title":"mainpage","permalink":"/00-main/","pinned":true,"tags":["gardenEntry"],"dgPassFrontmatter":true,"noteIcon":"signpost","created":"2025-07-23T19:15:13.755+02:00","updated":"2025-08-21T15:23:47.269+02:00"}
 ---
 
 *this space is a “Digital Garden” 🌱 [(what is a Digital Garden?)](https://www.thunknotes.com/blog/what-is-a-digital-garden)
@@ -35,22 +35,13 @@ so, don’t take anything too seriously here*
 - - -
 # topics
 - [[03 areas/creative/Writing/Write Place/The Write Place\|The Write Place]]
-
-- - -
 # current obsessions:
+- [[03 areas/creative/Music/music production\|music production]]/[[03 areas/creative/Music/sound engineering\|sound engineering]], [[03 areas/creative/Music/Music production/vstplugins/vst plugins\|vst plugins]]
 - [[Notes 📒/Knowledge/Education/Psychology/psychology\|psychology]] – [[Notes 📒/Knowledge/Education/Psychology/personality types\|personality types]]
 - ui/ux design
 - [[03 areas/creative/Writing/Write Place/The Write Place\|The Write Place]]
-## other stuff to potentially share here:
-- [[03 areas/creative/Music/music production\|music production]]/[[03 areas/creative/Music/sound engineering\|sound engineering]]
-- philosophy
-- data analysis
-
 # music obsession:
-
 <iframe data-testid="embed-iframe" style="border-radius:12px" src="https://open.spotify.com/embed/track/5PTqiBB5jDB72t00gat5jr?utm_source=generator&theme=0" width="100%" height="152" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
-
-
 - - -
 
 If you want to contact me for whatever reason:
