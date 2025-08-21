@@ -1,5 +1,5 @@
 ---
-{"date created":"2025-08-03","date modified":"2025-08-20","dg-publish":true,"dg-home":null,"dg-note-icon":"1","tags":["research"],"aliases":null,"permalink":"/notes/00-unsorted/komunikacja-i-budowanie-relacji-krzysztof-m-maj/","dgPassFrontmatter":true,"noteIcon":"1","created":"2025-08-03T17:57:20.940+02:00","updated":"2025-08-20T21:51:10.390+02:00"}
+{"date created":"2025-08-03","date modified":"2025-08-20","dg-publish":true,"dg-home":null,"dg-note-icon":"1","tags":["#research","#manipulacja","#psychologia","#biologia","#neurobiologia"],"aliases":null,"permalink":"/notes/00-unsorted/komunikacja-i-budowanie-relacji-krzysztof-m-maj/","dgPassFrontmatter":true,"noteIcon":"1","created":"2025-08-03T17:57:20.940+02:00","updated":"2025-08-21T15:26:24.263+02:00"}
 ---
 
 źródło: https://www.youtube.com/watch?v=8rFUSHbbsgo
@@ -49,4 +49,6 @@ słucham sobie tej czterogodzinnej prelekcji/warsztatu i wyciągam wartościowe 
 - nie zgadzać się na pracę ponad limit czasowy
 - nie obrażać osoby, z którą ktoś się wiąże mimo iż wiadomo że ta osoba to nie jest dobry wybór
 - można spróbować: na początku nowej relacji powiedzieć o swoich najgorszych red flagach
+
+xx/08/2025
 - 
