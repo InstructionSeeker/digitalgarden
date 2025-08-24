@@ -1,5 +1,5 @@
 ---
-{"date created":"2025-08-18","date modified":null,"dg-publish":true,"dg-home":null,"dg-note-icon":null,"tags":["#sound","#sound_design","#vfx"],"aliases":null,"permalink":"/03-areas/creative/music/music-production/vstplugins/vst-plugins/","dgPassFrontmatter":true,"noteIcon":null,"created":"2025-08-18T10:59:51.624+02:00","updated":"2025-08-20T21:44:32.012+02:00"}
+{"date created":"2025-08-18","date modified":null,"dg-publish":true,"dg-home":null,"dg-note-icon":null,"tags":["sound","sound_design","vfx"],"aliases":null,"permalink":"/03-areas/creative/music/music-production/vstplugins/vst-plugins/","dgPassFrontmatter":true,"noteIcon":null,"created":"2025-08-18T10:59:51.624+02:00","updated":"2025-08-20T21:44:32.012+02:00"}
 ---
 
 **If you know any great free or cheap plugins, please let me know!!**

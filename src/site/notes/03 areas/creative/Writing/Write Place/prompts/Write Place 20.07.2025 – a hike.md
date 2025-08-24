@@ -1,5 +1,5 @@
 ---
-{"date created":"2025-07-20","dg-publish":true,"dg-home":false,"dg-note-icon":"1","tags":["#creative/writing","#thewriteplace"],"permalink":"/03-areas/creative/writing/write-place/prompts/write-place-20-07-2025-a-hike/","dgPassFrontmatter":true,"noteIcon":"1","created":"2025-07-20T18:38:16.800+02:00","updated":"2025-08-18T12:26:46.804+02:00"}
+{"date created":"2025-07-20","dg-publish":true,"dg-home":false,"dg-note-icon":"1","tags":["creative/writing","thewriteplace"],"permalink":"/03-areas/creative/writing/write-place/prompts/write-place-20-07-2025-a-hike/","dgPassFrontmatter":true,"noteIcon":"1","created":"2025-07-20T18:38:16.800+02:00","updated":"2025-08-18T12:26:46.804+02:00"}
 ---
 
 *This is a short story that was written during a writing meeting. Had about an hour to write it, so if anything it’s just a rough draft. Very barebones, but I’m sharing the progress…

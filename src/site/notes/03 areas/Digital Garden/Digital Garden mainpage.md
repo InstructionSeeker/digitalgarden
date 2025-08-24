@@ -12,13 +12,13 @@ so, don’t take anything too seriously here*
 - - -
 # activity
 ## recent entries
-| File                                                                                           | date created |
-| ---------------------------------------------------------------------------------------------- | ------------ |
-| [[03 areas/creative/Music/Music production/vstplugins/vst plugins\|vst plugins]]            | 18-08-2025   |
-| [[03 areas/creative/Music/Music production/experience with reaper\|experience with reaper]] | 18-08-2025   |
-| [[03 areas/Digital Garden/testing page\|testing page]]                                      | 16-08-2025   |
-| [[03 areas/creative/Music/grooveboxes\|grooveboxes]]                                        | 15-08-2025   |
-| [[03 areas/Cooking/grill\|grill]]                                                           | 08-08-2025   |
+| File                                                                                                                          | date created |
+| ----------------------------------------------------------------------------------------------------------------------------- | ------------ |
+| [[03 areas/creative/Writing/Write Place/prompts/Write Place 24.08.2025 – shoe store\|Write Place 24.08.2025 – shoe store]] | 24-08-2025   |
+| [[03 areas/creative/Music/Music production/vstplugins/vst plugins\|vst plugins]]                                           | 18-08-2025   |
+| [[03 areas/creative/Music/Music production/experience with reaper\|experience with reaper]]                                | 18-08-2025   |
+| [[03 areas/Digital Garden/testing page\|testing page]]                                                                     | 16-08-2025   |
+| [[03 areas/creative/Music/grooveboxes\|grooveboxes]]                                                                       | 15-08-2025   |
 
 { .block-language-dataview}
 
