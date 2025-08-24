@@ -1,13 +1,11 @@
 ---
-{"date created":"2025-08-24","date modified":null,"dg-publish":true,"dg-home":null,"dg-note-icon":null,"tags":["creative","thewriteplace"],"aliases":null,"permalink":"/03-areas/creative/writing/write-place/prompts/write-place-24-08-2025-shoe-store/","dgPassFrontmatter":true,"noteIcon":null,"created":"2025-08-24T15:05:54.281+02:00","updated":"2025-08-24T17:56:49.772+02:00"}
+{"date created":"2025-08-24","date modified":null,"dg-publish":true,"dg-home":null,"dg-note-icon":null,"tags":["#creative","#thewriteplace"],"aliases":null,"permalink":"/03-areas/creative/writing/write-place/prompts/write-place-24-08-2025-shoe-store/","dgPassFrontmatter":true,"noteIcon":null,"created":"2025-08-24T15:05:54.281+02:00","updated":"2025-08-24T17:57:32.918+02:00"}
 ---
 
 # prompts
-They suddenly found themselves a labyrinth, which was a usual labyrinth, as far as labyrinths go, expect there were coins tossed on the floor, in every single corridor. What kind of situations did they find themselves in?
-
-Shoe store where none of the shoe is your size
-
-The protagonist notices that not all shadows exactly reflect things or people. Some shadows are... different, and act different
+- They suddenly found themselves a labyrinth, which was a usual labyrinth, as far as labyrinths go, expect there were coins tossed on the floor, in every single corridor. What kind of situations did they find themselves in?
+- Shoe store where none of the shoe is your size
+- The protagonist notices that not all shadows exactly reflect things or people. Some shadows are... different, and act different
 # concept
 - lab, labyrinth
 - shadow walking through the street
