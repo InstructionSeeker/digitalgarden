@@ -1,5 +1,5 @@
 ---
-{"date created":"2025-08-24","date modified":null,"dg-publish":true,"dg-home":null,"dg-note-icon":null,"tags":["#creative","#thewriteplace"],"aliases":null,"permalink":"/03-areas/creative/writing/write-place/prompts/write-place-24-08-2025-shoe-store/","dgPassFrontmatter":true,"noteIcon":null,"created":"2025-08-24T15:05:54.281+02:00","updated":"2025-08-24T17:23:00.800+02:00"}
+{"date created":"2025-08-24","date modified":null,"dg-publish":true,"dg-home":null,"dg-note-icon":null,"tags":["creative","thewriteplace"],"aliases":null,"permalink":"/03-areas/creative/writing/write-place/prompts/write-place-24-08-2025-shoe-store/","dgPassFrontmatter":true,"noteIcon":null,"created":"2025-08-24T15:05:54.281+02:00","updated":"2025-08-24T17:56:49.772+02:00"}
 ---
 
 # prompts
@@ -16,6 +16,7 @@ The protagonist notices that not all shadows exactly reflect things or people. S
 - shoe store
 ## thoughts mid-writing
 - shoe store – actually a great starter for anything XD
+- wrote something kinda satirical, as if it was Philip K. DIck inspired
 - last time I wrote about 400 words in a meeting/one hour, this time I was planning to focus less on details and more on moving the story to perhaps reach 1 000 words, but I ended up with 700
 # story
 Greg had to do it again, he had to finally get new shoes.
@@ -46,7 +47,7 @@ They looked awkward, as they were figuring out which one of them will overtake t
 
 It started to drizzle. It triggered Greg – “give me your shoes” – he reached with his hands towards stranger’s box. They wrestled about the box whilst a swift human-like shadow paced in front of them. A darkness surrounded them. They blacked out.
 
-recovering the consciousness they found themselves… in a dark place anyway, although they could spot some dimly lit objects. Namely walls, the floor and objects resting on the surface. Some kind of coins.
+recovering the consciousness they found themselves… in a dark place and there were some dimly lit objects. Namely walls, the floor and objects resting on the surface. Some kind of coins.
 
 – “now where are we..” – the stranger spoke first.
 – “give me my shoes!” – Greg must’ve been going through a nightmare as he sleep-talked
