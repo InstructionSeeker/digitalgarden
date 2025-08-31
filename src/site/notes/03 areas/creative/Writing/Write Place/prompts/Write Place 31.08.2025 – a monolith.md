@@ -1,5 +1,5 @@
 ---
-{"date created":"2025-08-31","date modified":null,"dg-publish":true,"dg-home":null,"dg-note-icon":null,"tags":["#creative/writing","#thewriteplace"],"aliases":null,"permalink":"/03-areas/creative/writing/write-place/prompts/write-place-31-08-2025-a-monolith/","dgPassFrontmatter":true,"noteIcon":null,"created":"2025-08-31T15:00:37.200+02:00","updated":"2025-08-31T17:16:31.763+02:00"}
+{"date created":"2025-08-31","date modified":null,"dg-publish":true,"dg-home":null,"dg-note-icon":null,"tags":["#creative/writing","#thewriteplace"],"aliases":null,"permalink":"/03-areas/creative/writing/write-place/prompts/write-place-31-08-2025-a-monolith/","dgPassFrontmatter":true,"noteIcon":null,"created":"2025-08-31T15:00:37.200+02:00","updated":"2025-08-31T17:25:06.456+02:00"}
 ---
 
 # entry
@@ -24,7 +24,7 @@
 	- unless 
 - I keep writing about basements and undergrounds XDD
 # story
-*so the continuation?*
+*so the continuation of [[03 areas/creative/Writing/Write Place/prompts/Write Place 24.08.2025 – shoe store\|Write Place 24.08.2025 – shoe store]]?*
 
 From the different side of this dark place. There was this monolith type of a structure. How did it fit into this darkness? It was interesting. Perhaps this dark place wasn’t limited in the space. What seemed to be buried deep underground had plenty of room for massive structures, the building could’ve easily had 6 tall floors.
 
