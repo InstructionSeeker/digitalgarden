@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-home":true,"dg-pinned":true,"dg-path":"00 main","dg-note-icon":"signpost","title":"mainpage","permalink":"/00-main/","pinned":true,"tags":["gardenEntry"],"dgPassFrontmatter":true,"noteIcon":"signpost","created":"2025-07-23T19:15:13.755+02:00","updated":"2025-08-21T22:28:49.165+02:00"}
+{"dg-publish":true,"dg-home":true,"dg-pinned":true,"dg-path":"00 main","dg-note-icon":"signpost","title":"mainpage","permalink":"/00-main/","pinned":true,"tags":["gardenEntry"],"dgPassFrontmatter":true,"noteIcon":"signpost","created":"2025-07-23T19:15:13.755+02:00","updated":"2025-08-24T20:34:22.729+02:00"}
 ---
 
 *this space is a “Digital Garden” 🌱 [(what is a Digital Garden?)](https://www.thunknotes.com/blog/what-is-a-digital-garden)
@@ -14,15 +14,14 @@ so, don’t take anything too seriously here*
 ## recent entries
 | File                                                                                                                          | date created |
 | ----------------------------------------------------------------------------------------------------------------------------- | ------------ |
+| [[03 areas/creative/Writing/Write Place/prompts/Write Place 31.08.2025 – a monolith\|Write Place 31.08.2025 – a monolith]] | 31-08-2025   |
 | [[03 areas/creative/Writing/Write Place/prompts/Write Place 24.08.2025 – shoe store\|Write Place 24.08.2025 – shoe store]] | 24-08-2025   |
 | [[03 areas/creative/Music/Music production/vstplugins/vst plugins\|vst plugins]]                                           | 18-08-2025   |
 | [[03 areas/creative/Music/Music production/experience with reaper\|experience with reaper]]                                | 18-08-2025   |
 | [[03 areas/Digital Garden/testing page\|testing page]]                                                                     | 16-08-2025   |
-| [[03 areas/creative/Music/grooveboxes\|grooveboxes]]                                                                       | 15-08-2025   |
 
 { .block-language-dataview}
 
-![[recent entries.base]]
 ## recent edits
 | File                                                                                                                               | date editted |
 | ---------------------------------------------------------------------------------------------------------------------------------- | ------------ |
