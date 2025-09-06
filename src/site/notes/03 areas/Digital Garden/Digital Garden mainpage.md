@@ -25,9 +25,10 @@ so, don’t take anything too seriously here*
 ## recent edits
 | File                                                                                                                               | date editted |
 | ---------------------------------------------------------------------------------------------------------------------------------- | ------------ |
-| [[Notes 📒/00 Unsorted/komunikacja i budowanie relacji - krzysztof m. maj\|komunikacja i budowanie relacji - krzysztof m. maj]] | 20-08-2025   |
 | [[Notes 📒/Knowledge/Education/Psychology/personality types MBTI\|personality types MBTI]]                                      | 15-08-2025   |
+| [[Notes 📒/00 Unsorted/komunikacja i budowanie relacji - krzysztof m. maj\|komunikacja i budowanie relacji - krzysztof m. maj]] | 20-08-2025   |
 | [[Notes 📒/Knowledge/Education/Psychology/personality types MBTI/INFJ\|INFJ]]                                                   | 31-07-2025   |
+| [[03 areas/Tech/Tools/AI/AI tools\|AI tools]]                                                                                   | 06-09-2025   |
 
 { .block-language-dataview}
 

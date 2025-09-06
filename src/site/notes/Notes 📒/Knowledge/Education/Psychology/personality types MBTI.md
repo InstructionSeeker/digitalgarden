@@ -1,5 +1,5 @@
 ---
-{"date created":"2025-07-24","date modified":"2025-08-15","dg-publish":true,"dg-home":null,"dg-note-icon":"1","tags":null,"aliases":null,"permalink":"/notes/knowledge/education/psychology/personality-types-mbti/","dgPassFrontmatter":true,"noteIcon":"1","created":"2025-07-24T21:49:13.073+02:00","updated":"2025-08-16T03:00:21.360+02:00"}
+{"date created":"2025-07-24","date modified":"2025-08-15","dg-publish":true,"dg-home":false,"dg-note-icon":"1","tags":null,"aliases":null,"permalink":"/notes/knowledge/education/psychology/personality-types-mbti/","dgPassFrontmatter":true,"noteIcon":"1","created":"2025-07-24T21:49:13.073+02:00","updated":"2025-09-06T17:51:26.257+02:00"}
 ---
 
 **To preface this:** supposedly it is a parapsychology and doesn’t have to make any sense, but I still happen to find some grain of truth within these archetypes. Now, it doesn’t work like every person has to fall into a specific archetype all the time, but spotting some schemes can be helpful to try to understand another person. 

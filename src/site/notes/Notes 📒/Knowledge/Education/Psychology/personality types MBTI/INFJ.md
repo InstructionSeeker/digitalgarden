@@ -1,5 +1,5 @@
 ---
-{"date created":"2025-07-24","date modified":"2025-07-31","dg-publish":true,"dg-home":null,"dg-note-icon":"1","tags":null,"aliases":null,"permalink":"/notes/knowledge/education/psychology/personality-types-mbti/infj/","dgPassFrontmatter":true,"noteIcon":"1","created":"2025-07-24T21:48:35.652+02:00","updated":"2025-08-16T03:00:11.108+02:00"}
+{"date created":"2025-07-24","date modified":"2025-07-31","dg-publish":true,"dg-home":false,"dg-note-icon":"1","tags":null,"aliases":null,"permalink":"/notes/knowledge/education/psychology/personality-types-mbti/infj/","dgPassFrontmatter":true,"noteIcon":"1","created":"2025-07-24T21:48:35.652+02:00","updated":"2025-09-06T17:51:21.841+02:00"}
 ---
 
 hi, it’s me!
