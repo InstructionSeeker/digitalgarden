@@ -23,12 +23,12 @@ so, don’t take anything too seriously here*
 { .block-language-dataview}
 
 ## recent edits
-| File                                                                                                                               | date editted |
-| ---------------------------------------------------------------------------------------------------------------------------------- | ------------ |
-| [[03 areas/Tech/Tools/AI/AI tools\|AI tools]]                                                                                   | 06-09-2025   |
-| [[Notes 📒/00 Unsorted/komunikacja i budowanie relacji - krzysztof m. maj\|komunikacja i budowanie relacji - krzysztof m. maj]] | 20-08-2025   |
-| [[Notes 📒/Knowledge/Education/Psychology/personality types MBTI\|personality types MBTI]]                                      | 15-08-2025   |
-| [[Notes 📒/Knowledge/Education/Psychology/personality types MBTI/INFJ\|INFJ]]                                                   | 31-07-2025   |
+| File                                                                                                                                 | date editted |
+| ------------------------------------------------------------------------------------------------------------------------------------ | ------------ |
+| [[03 areas/Tech/Tools/AI/AI tools\|AI tools]]                                                                                     | 06-09-2025   |
+| [[03 projects/02 ongoing/komunikacja i budowanie relacji - krzysztof m. maj\|komunikacja i budowanie relacji - krzysztof m. maj]] | 20-08-2025   |
+| [[03 areas/Psychology/personality types MBTI\|personality types MBTI]]                                                            | 15-08-2025   |
+| [[03 areas/Psychology/personality types MBTI/INFJ\|INFJ]]                                                                         | 31-07-2025   |
 
 { .block-language-dataview}
 
@@ -37,7 +37,7 @@ so, don’t take anything too seriously here*
 - [[03 areas/creative/Writing/Write Place/The Write Place\|The Write Place]]
 # current obsessions:
 - [[03 areas/creative/Music/music production\|music production]]/[[03 areas/creative/Music/sound engineering\|sound engineering]], [[03 areas/creative/Music/Music production/vstplugins/vst plugins\|vst plugins]]
-- [[Notes 📒/Knowledge/Education/Psychology/psychology\|psychology]] – [[Notes 📒/Knowledge/Education/Psychology/personality types\|personality types]]
+- [[03 areas/Psychology/psychology\|psychology]] – [[03 areas/Psychology/personality types\|personality types]]
 - ui/ux design
 - [[03 areas/creative/Writing/Write Place/The Write Place\|The Write Place]]
 # music obsession:
