@@ -1,5 +1,5 @@
 ---
-{"date created":"2025-08-31","date modified":null,"dg-publish":true,"dg-home":false,"dg-note-icon":null,"tags":["#creative/writing","#thewriteplace"],"aliases":null,"permalink":"/03-areas/creative/writing/write-place/prompts/write-place-31-08-2025-a-monolith/","dgPassFrontmatter":true,"noteIcon":null,"created":"2025-08-31T15:00:37.200+02:00","updated":"2025-09-06T17:51:33.864+02:00"}
+{"date created":"2025-08-31","date modified":null,"dg-publish":true,"dg-home":false,"dg-note-icon":null,"tags":["creative/writing","thewriteplace"],"aliases":null,"permalink":"/03-areas/creative/writing/write-place/prompts/write-place-31-08-2025-a-monolith/","dgPassFrontmatter":true,"noteIcon":null,"created":"2025-08-31T15:00:37.200+02:00","updated":"2025-09-06T17:51:33.864+02:00"}
 ---
 
 # entry

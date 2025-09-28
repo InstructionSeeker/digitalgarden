@@ -1,5 +1,5 @@
 ---
-{"date created":"2025-08-04","date modified":null,"dg-publish":true,"dg-home":false,"dg-note-icon":"1","tags":["#strategist","#philomath","#empathizer","#believer","#brainstormer"],"aliases":null,"permalink":"/03-areas/psychology/concepts/34-talenty-gallupa/","dgPassFrontmatter":true,"noteIcon":"1","created":"2025-08-04T04:43:44.389+02:00","updated":"2025-09-06T17:51:14.919+02:00"}
+{"date created":"2025-08-04","date modified":null,"dg-publish":true,"dg-home":false,"dg-note-icon":"1","tags":null,"aliases":null,"permalink":"/03-areas/psychology/concepts/34-talenty-gallupa/","dgPassFrontmatter":true,"noteIcon":"1","created":"2025-08-04T04:43:44.389+02:00","updated":"2025-09-06T17:51:14.919+02:00"}
 ---
 
 # executing

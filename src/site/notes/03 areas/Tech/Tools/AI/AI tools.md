@@ -1,5 +1,5 @@
 ---
-{"date created":"2024-02-27","date modified":"2025-09-06","dg-publish":true,"dg-home":false,"dg-note-icon":null,"tags":["#AI"],"aliases":null,"source":"https://www.youtube.com/watch?v=1JMVUfuqn2M&","permalink":"/03-areas/tech/tools/ai/ai-tools/","dgPassFrontmatter":true,"noteIcon":null,"created":"2024-02-27T01:52:10.109+01:00","updated":"2025-09-06T21:53:33.495+02:00"}
+{"date created":"2024-02-27","date modified":"2025-09-06","dg-publish":true,"dg-home":false,"dg-note-icon":null,"tags":["AI"],"aliases":null,"source":"https://www.youtube.com/watch?v=1JMVUfuqn2M&","permalink":"/03-areas/tech/tools/ai/ai-tools/","dgPassFrontmatter":true,"noteIcon":null,"created":"2024-02-27T01:52:10.109+01:00","updated":"2025-09-17T01:20:13.182+02:00"}
 ---
 
 # AIs
@@ -9,7 +9,7 @@
 - Claude – human element in responses, emphatic
 - Duck AI – 
 - Lovable – building apps/coding
-- Lumo – suposedly private
+- Lumo – proton’s wing, suposedly private
 - Perplexity – 
 ## other
 - Adobe Firefly – wstawiane itemów do zdjęć
