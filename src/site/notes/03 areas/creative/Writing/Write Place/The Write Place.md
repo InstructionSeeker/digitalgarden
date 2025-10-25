@@ -10,7 +10,7 @@ What you can expect here is that I happen to gravitate to horror and unexplainab
 
 | File                                                                                                                                            | date created |
 | ----------------------------------------------------------------------------------------------------------------------------------------------- | ------------ |
-| [[03 areas/creative/Writing/Write Place/prompts/Write Place 25.10.2025\|Write Place 25.10.2025]]                                             | 25-10-2025   |
+| [[03 areas/creative/Writing/Write Place/prompts/Write Place 25.10.2025 – Butterfly Effect\|Write Place 25.10.2025 – Butterfly Effect]]       | 25-10-2025   |
 | [[03 areas/creative/Writing/Write Place/prompts/Write Place 18.10.2025\|Write Place 18.10.2025]]                                             | 18-10-2025   |
 | [[03 areas/creative/Writing/Write Place/prompts/Write Place 28.09.2025\|Write Place 28.09.2025]]                                             | 28-09-2025   |
 | [[03 areas/creative/Writing/Write Place/prompts/Write Place 31.08.2025 – a monolith\|Write Place 31.08.2025 – a monolith]]                   | 31-08-2025   |
