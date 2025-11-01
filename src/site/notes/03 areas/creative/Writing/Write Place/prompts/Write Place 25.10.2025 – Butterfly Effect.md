@@ -1,5 +1,5 @@
 ---
-{"date created":"2025-10-25","date modified":null,"dg-publish":true,"dg-home":false,"dg-note-icon":null,"tags":["#creative/writing","#thewriteplace"],"aliases":null,"permalink":"/03-areas/creative/writing/write-place/prompts/write-place-25-10-2025-butterfly-effect/","dgPassFrontmatter":true,"noteIcon":null,"created":"2025-10-25T15:49:26.201+02:00","updated":"2025-10-25T16:55:26.681+02:00"}
+{"date created":"2025-10-25","date modified":null,"dg-publish":true,"dg-home":false,"dg-note-icon":null,"tags":["creative/writing","thewriteplace"],"aliases":null,"permalink":"/03-areas/creative/writing/write-place/prompts/write-place-25-10-2025-butterfly-effect/","dgPassFrontmatter":true,"noteIcon":null,"created":"2025-10-25T15:49:26.201+02:00","updated":"2025-10-25T16:55:29.081+02:00"}
 ---
 
 # prompt
@@ -18,7 +18,7 @@ people don’t die, they turn into something else
 	- entity that has to do hard labor for the owner
 
 # story
-In this episode we will be  a life of a theater director, Nael, who has been living a successful life. This was one of the best doing theaters in the world, not the best, but a top 5.
+In this episode we will be exploring a life of a theater director, Nael, who has been living a successful life. This was one of the best doing theaters in the world, not the best, but a top 5.
 
 The entry threshold for playing in this theater was high. The script had to be nearly perfect, awaken emotions in the audience. Often had to prove in different, lower class theaters. 
 There were some that managed to get in by bribes, but that was rarity, and the price had to be convincing…
