@@ -14,11 +14,11 @@ so, don’t take anything too seriously here*
 ## recent entries
 | File                                                                                                                                      | date created |
 | ----------------------------------------------------------------------------------------------------------------------------------------- | ------------ |
+| [[03 areas/creative/Writing/Write Place/prompts/Write Place 29.11 - a sloth\|Write Place 29.11 - a sloth]]                             | 29-11-2025   |
 | [[03 areas/creative/Writing/Write Place/prompts/Write Place 01.11.2025 – metempsychosis\|Write Place 01.11.2025 – metempsychosis]]     | 01-11-2025   |
 | [[03 areas/creative/Writing/Write Place/prompts/Write Place 25.10.2025 – Butterfly Effect\|Write Place 25.10.2025 – Butterfly Effect]] | 25-10-2025   |
 | [[03 areas/creative/Writing/Write Place/prompts/Write Place 18.10.2025 – the mushroom\|Write Place 18.10.2025 – the mushroom]]         | 18-10-2025   |
 | [[03 areas/creative/Writing/Write Place/prompts/Write Place 28.09.2025 – sandbox\|Write Place 28.09.2025 – sandbox]]                   | 28-09-2025   |
-| [[04 resources/AI prompts/prompt guidelines\|prompt guidelines]]                                                                       | 06-09-2025   |
 
 { .block-language-dataview}
 

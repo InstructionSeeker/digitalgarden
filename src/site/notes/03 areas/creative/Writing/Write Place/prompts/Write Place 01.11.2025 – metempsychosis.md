@@ -1,5 +1,5 @@
 ---
-{"date created":"2025-11-01","date modified":null,"dg-publish":true,"dg-home":false,"dg-note-icon":null,"tags":["#creative/writing","#thewriteplace"],"aliases":null,"permalink":"/03-areas/creative/writing/write-place/prompts/write-place-01-11-2025-metempsychosis/","dgPassFrontmatter":true,"noteIcon":null,"created":"2025-11-01T15:19:38.208+01:00","updated":"2025-11-01T16:58:11.683+01:00"}
+{"date created":"2025-11-01","date modified":null,"dg-publish":true,"dg-home":false,"dg-note-icon":null,"tags":["creative/writing","thewriteplace"],"aliases":null,"permalink":"/03-areas/creative/writing/write-place/prompts/write-place-01-11-2025-metempsychosis/","dgPassFrontmatter":true,"noteIcon":null,"created":"2025-11-01T15:19:38.208+01:00","updated":"2025-11-01T18:16:25.684+01:00"}
 ---
 
 # prompts
@@ -70,3 +70,5 @@ And so there was a mayhem for upcoming weeks.
 
 # afterthoughts
 THIS EXERCISE, FRAMEWORK WAS DIFFICULT TO WORK WITH
+
+couldve written smth about slavians

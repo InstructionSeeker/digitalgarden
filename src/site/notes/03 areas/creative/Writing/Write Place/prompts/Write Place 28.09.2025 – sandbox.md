@@ -1,5 +1,5 @@
 ---
-{"date created":"2025-09-28","date modified":null,"dg-publish":true,"dg-home":false,"dg-note-icon":null,"tags":["#creative/writing","#thewriteplace"],"aliases":null,"permalink":"/03-areas/creative/writing/write-place/prompts/write-place-28-09-2025-sandbox/","dgPassFrontmatter":true,"noteIcon":null,"created":"2025-09-28T15:11:15.982+02:00","updated":"2025-09-28T18:20:12.387+02:00"}
+{"date created":"2025-09-28","date modified":null,"dg-publish":true,"dg-home":false,"dg-note-icon":null,"tags":["creative/writing","thewriteplace"],"aliases":null,"permalink":"/03-areas/creative/writing/write-place/prompts/write-place-28-09-2025-sandbox/","dgPassFrontmatter":true,"noteIcon":null,"created":"2025-09-28T15:11:15.982+02:00","updated":"2025-09-28T18:20:12.387+02:00"}
 ---
 
 # pompts
