@@ -1,5 +1,5 @@
 ---
-{"date created":"2025-07-27","dg-publish":true,"dg-home":false,"dg-note-icon":"1","tags":["creative/writing","thewriteplace"],"aliases":null,"permalink":"/03-areas/creative/writing/write-place/prompts/write-place-27-07-2025-dysfunctional-plant/","dgPassFrontmatter":true,"noteIcon":"1","created":"2025-07-27T18:17:05.702+02:00","updated":"2025-09-06T17:51:32.551+02:00"}
+{"date created":"2025-07-27","title":"dysfunctional plant","dg-publish":true,"dg-home":false,"dg-note-icon":"1","tags":["creative/writing","thewriteplace"],"aliases":null,"permalink":"/03-areas/creative/writing/write-place/prompts/write-place-27-07-2025-dysfunctional-plant/","dgPassFrontmatter":true,"noteIcon":"1","created":"2025-07-27T18:17:05.702+02:00","updated":"2025-12-03T06:03:23.778+01:00"}
 ---
 
 *a little bit less than 400 words

@@ -1,5 +1,5 @@
 ---
-{"date created":"2025-10-18","date modified":null,"dg-publish":true,"dg-home":false,"dg-note-icon":null,"tags":["creative/writing","thewriteplace"],"aliases":null,"permalink":"/03-areas/creative/writing/write-place/prompts/write-place-18-10-2025-the-mushroom/","dgPassFrontmatter":true,"noteIcon":null,"created":"2025-10-18T15:18:48.070+02:00","updated":"2025-10-25T15:50:55.361+02:00"}
+{"date created":"2025-10-18","date modified":null,"title":"the mushroom","dg-publish":true,"dg-home":false,"dg-note-icon":null,"tags":["creative/writing","thewriteplace"],"aliases":null,"permalink":"/03-areas/creative/writing/write-place/prompts/write-place-18-10-2025-the-mushroom/","dgPassFrontmatter":true,"noteIcon":null,"created":"2025-10-18T15:18:48.070+02:00","updated":"2025-12-03T06:01:57.616+01:00"}
 ---
 
 storytelling – not lying, but telling something that could’ve happened

@@ -1,5 +1,5 @@
 ---
-{"date created":"2025-08-24","date modified":null,"dg-publish":true,"dg-home":false,"dg-note-icon":null,"tags":["creative/writing","thewriteplace"],"aliases":null,"permalink":"/03-areas/creative/writing/write-place/prompts/write-place-24-08-2025-shoe-store/","dgPassFrontmatter":true,"noteIcon":null,"created":"2025-08-24T15:05:54.281+02:00","updated":"2025-09-06T17:51:31.815+02:00"}
+{"date created":"2025-08-24","date modified":null,"title":"shoe store","dg-publish":true,"dg-home":false,"dg-note-icon":null,"tags":["creative/writing","thewriteplace"],"aliases":null,"permalink":"/03-areas/creative/writing/write-place/prompts/write-place-24-08-2025-shoe-store/","dgPassFrontmatter":true,"noteIcon":null,"created":"2025-08-24T15:05:54.281+02:00","updated":"2025-12-03T06:02:55.293+01:00"}
 ---
 
 # entry

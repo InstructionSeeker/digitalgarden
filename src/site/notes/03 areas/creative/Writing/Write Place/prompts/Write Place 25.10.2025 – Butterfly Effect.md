@@ -1,5 +1,5 @@
 ---
-{"date created":"2025-10-25","date modified":null,"dg-publish":true,"dg-home":false,"dg-note-icon":null,"tags":["creative/writing","thewriteplace"],"aliases":null,"permalink":"/03-areas/creative/writing/write-place/prompts/write-place-25-10-2025-butterfly-effect/","dgPassFrontmatter":true,"noteIcon":null,"created":"2025-10-25T15:49:26.201+02:00","updated":"2025-10-25T16:55:29.081+02:00"}
+{"date created":"2025-10-25","date modified":null,"title":"Butterfly Effect","dg-publish":true,"dg-home":false,"dg-note-icon":null,"tags":["creative/writing","thewriteplace"],"aliases":null,"permalink":"/03-areas/creative/writing/write-place/prompts/write-place-25-10-2025-butterfly-effect/","dgPassFrontmatter":true,"noteIcon":null,"created":"2025-10-25T15:49:26.201+02:00","updated":"2025-12-03T06:03:09.725+01:00"}
 ---
 
 # prompt
