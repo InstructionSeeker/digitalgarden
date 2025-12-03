@@ -1,5 +1,5 @@
 ---
-{"date created":"2025-11-29","date modified":null,"dg-publish":true,"dg-home":false,"dg-note-icon":null,"tags":["creative/writing","thewriteplace"],"aliases":null,"permalink":"/03-areas/creative/writing/write-place/prompts/write-place-29-11-a-sloth/","dgPassFrontmatter":true,"noteIcon":null,"created":"2025-11-29T15:18:48.609+01:00","updated":"2025-11-29T17:47:31.903+01:00"}
+{"date created":"2025-11-29","date modified":null,"dg-publish":true,"dg-home":false,"dg-note-icon":null,"tags":["creative/writing","thewriteplace"],"aliases":null,"dg-title":"a sloth","permalink":"/03-areas/creative/writing/write-place/prompts/write-place-29-11-a-sloth/","dgPassFrontmatter":true,"noteIcon":null,"created":"2025-11-29T15:18:48.609+01:00","updated":"2025-12-03T05:46:47.522+01:00"}
 ---
 
 # prompts
