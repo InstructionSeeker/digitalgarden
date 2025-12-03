@@ -12,13 +12,13 @@ so, don’t take anything too seriously here*
 - - -
 # activity
 ## recent entries
-| File                                                                                                                                        | date created |
-| ------------------------------------------------------------------------------------------------------------------------------------------- | ------------ |
-| [[03 areas/creative/Writing/Write Place/czernowik/Write Place 29.11 - a sloth\|Write Place 29.11 - a sloth]]                             | 29-11-2025   |
-| [[03 areas/creative/Writing/Write Place/czernowik/Write Place 01.11.2025 – metempsychosis\|Write Place 01.11.2025 – metempsychosis]]     | 01-11-2025   |
-| [[03 areas/creative/Writing/Write Place/czernowik/Write Place 25.10.2025 – Butterfly Effect\|Write Place 25.10.2025 – Butterfly Effect]] | 25-10-2025   |
-| [[03 areas/creative/Writing/Write Place/czernowik/Write Place 18.10.2025 – the mushroom\|Write Place 18.10.2025 – the mushroom]]         | 18-10-2025   |
-| [[03 areas/creative/Writing/Write Place/czernowik/Write Place 28.09.2025 – sandbox\|Write Place 28.09.2025 – sandbox]]                   | 28-09-2025   |
+| File                                                                                                                | date created |
+| ------------------------------------------------------------------------------------------------------------------- | ------------ |
+| [[03 areas/creative/Writing/Write Place/czernowik/29.11.2025 - a sloth\|29.11.2025 - a sloth]]                   | 29-11-2025   |
+| [[03 areas/creative/Writing/Write Place/czernowik/01.11.2025 – metempsychosis\|01.11.2025 – metempsychosis]]     | 01-11-2025   |
+| [[03 areas/creative/Writing/Write Place/czernowik/25.10.2025 – Butterfly Effect\|25.10.2025 – Butterfly Effect]] | 25-10-2025   |
+| [[03 areas/creative/Writing/Write Place/czernowik/18.10.2025 – the mushroom\|18.10.2025 – the mushroom]]         | 18-10-2025   |
+| [[03 areas/creative/Writing/Write Place/czernowik/28.09.2025 – sandbox\|28.09.2025 – sandbox]]                   | 28-09-2025   |
 
 { .block-language-dataview}
 
