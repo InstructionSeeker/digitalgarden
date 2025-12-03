@@ -1,0 +1,46 @@
+---
+{"date created":"2025-10-25","date modified":null,"title":"Butterfly Effect","dg-publish":true,"dg-home":false,"dg-note-icon":null,"tags":["#creative/writing","#thewriteplace"],"aliases":null,"permalink":"/03-areas/creative/writing/write-place/czernowik/write-place-25-10-2025-butterfly-effect/","dgPassFrontmatter":true,"noteIcon":null,"created":"2025-10-25T15:49:26.201+02:00","updated":"2025-12-03T06:03:09.725+01:00"}
+---
+
+# prompt
+
+Butterfly Effect
+
+people don’t die, they turn into something else
+
+
+# ideas
+- blob (again xd) that 
+	- that consumes everything
+- werewolf
+	- that is a director in a theather and once an actor wins a prize, he eats them and claims their prize
+- autognome
+	- entity that has to do hard labor for the owner
+
+# story
+In this episode we will be exploring a life of a theater director, Nael, who has been living a successful life. This was one of the best doing theaters in the world, not the best, but a top 5.
+
+The entry threshold for playing in this theater was high. The script had to be nearly perfect, awaken emotions in the audience. Often had to prove in different, lower class theaters. 
+There were some that managed to get in by bribes, but that was rarity, and the price had to be convincing…
+
+Eventually the director was assassinated. He was found dead in his office chair. A shot was taken to his head through the window. Glass shattered on the floor. Sniper bullet pierced his head and found the rest in the latest script.
+
+The investigation discovered the assassination was requested by an actor who wanted to play in this most prestigious theater, but unfortunately his formation didn’t get accepted into such exclusive place.
+
+Nael returned to life as a werewolf.
+His mother was a human, his father… who knew?
+He grew fast still remembering his old life, but now more in a form of instinct. He knew he wanted to do theater and he quickly progressed in his theater career. He was wearing a mask to hide his hideous nature, after all he was among humans, for the most part. What would they think if they knew there was a werewolf among them?
+
+Once in a while someone disappeared from his circle, he had another thing to his instinct, he had to feast on some tasty human flesh and their sweet blood.
+
+Over the years he climbed the ranks and eventually claimed back his director status. He learned what happened to previous to last director. That infuriated him. He researched and managed to learn who ordered assassination on his past life. Nael snuck up on him and swiftly murdered him in return. Poor guy barely reclaimed his freedom from jail.
+
+But the hunger grew further. The werewolf had to satisfy himself. 
+One of the actors playing in his theater had just won an award. There was an official ceremony, streams, all the paparazzi stuff. And at the end a fancy private dinner with the director. Or a one-sided dinner as the actor barely consumed an appetizer, but the main dish was well, the actor himself.
+And that became the werewolf’s strategy from now. Every single time an actor won an award, the same scenario occurred and they disappeared.
+
+
+But what happened to the assassination ordering actor after his death?
+And those that the werewolf killed?
+Well, you might learn about them in the upcoming weeks.
+So stay tuned!
