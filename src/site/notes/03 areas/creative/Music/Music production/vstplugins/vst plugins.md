@@ -21,7 +21,7 @@ gotta replace serum, omnispehere and kontakt with something else…
 # on those:
 - [[A1TriggerGate\|A1TriggerGate]] – rhytmic sound cut off
 # next in line to check… /backlog
-- [[Vital\|Vital]] – synth
+- [[03 areas/creative/Music/Music production/vstplugins/vital\|Vital]] – synth
 - [[BBC Orchestra\|BBC Orchestra]] – synth
 - [[Keyzone Classic\|Keyzone Classic]] – piano
 - [[OTT\|OTT]] – compressor

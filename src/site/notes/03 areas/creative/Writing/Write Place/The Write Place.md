@@ -10,6 +10,7 @@ What you can expect here is that I happen to gravitate to horror and unexplainab
 
 | File                                                                                                                      | date created |
 | ------------------------------------------------------------------------------------------------------------------------- | ------------ |
+| [[03 areas/creative/Writing/Write Place/czernowik/13.12.2025\|13.12.2025]]                                             | 13-12-2025   |
 | [[03 areas/creative/Writing/Write Place/czernowik/29.11.2025 - a sloth\|29.11.2025 - a sloth]]                         | 29-11-2025   |
 | [[03 areas/creative/Writing/Write Place/czernowik/01.11.2025 – metempsychosis\|01.11.2025 – metempsychosis]]           | 01-11-2025   |
 | [[03 areas/creative/Writing/Write Place/czernowik/25.10.2025 – Butterfly Effect\|25.10.2025 – Butterfly Effect]]       | 25-10-2025   |

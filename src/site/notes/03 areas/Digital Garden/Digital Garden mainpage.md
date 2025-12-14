@@ -14,11 +14,11 @@ so, don’t take anything too seriously here*
 ## recent entries
 | File                                                                                                                | date created |
 | ------------------------------------------------------------------------------------------------------------------- | ------------ |
+| [[03 areas/creative/Writing/Write Place/czernowik/13.12.2025\|13.12.2025]]                                       | 13-12-2025   |
 | [[03 areas/creative/Writing/Write Place/czernowik/29.11.2025 - a sloth\|29.11.2025 - a sloth]]                   | 29-11-2025   |
 | [[03 areas/creative/Writing/Write Place/czernowik/01.11.2025 – metempsychosis\|01.11.2025 – metempsychosis]]     | 01-11-2025   |
 | [[03 areas/creative/Writing/Write Place/czernowik/25.10.2025 – Butterfly Effect\|25.10.2025 – Butterfly Effect]] | 25-10-2025   |
 | [[03 areas/creative/Writing/Write Place/czernowik/18.10.2025 – the mushroom\|18.10.2025 – the mushroom]]         | 18-10-2025   |
-| [[03 areas/creative/Writing/Write Place/czernowik/28.09.2025 – sandbox\|28.09.2025 – sandbox]]                   | 28-09-2025   |
 
 { .block-language-dataview}
 
