@@ -12,20 +12,25 @@ so, don’t take anything too seriously here*
 - - -
 # activity
 ## recent entries
-```dataview
-table dateformat(date-created, "dd-MM-yyyy") AS "date created"
-where dg-publish = true AND date-created
-sort file.ctime DESC
-limit 5
-```
+| File                                                                                                                                                      | date created |
+| --------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------ |
+| [[03 areas/creative/Writing/Write Place/czernowik/31.01.2026 - dream the world you want to live in\|31.01.2026 - dream the world you want to live in]] | 31-01-2026   |
+| [[03 areas/creative/Writing/Write Place/czernowik/10.01.2026 - zombies\|10.01.2026 - zombies]]                                                         | 10-01-2026   |
+| [[03 areas/creative/Writing/Write Place/czernowik/13.12.2025\|13.12.2025]]                                                                             | 13-12-2025   |
+| [[03 areas/creative/Writing/Write Place/czernowik/29.11.2025 - a sloth\|29.11.2025 - a sloth]]                                                         | 29-11-2025   |
+| [[03 areas/creative/Writing/Write Place/czernowik/01.11.2025 – metempsychosis\|01.11.2025 – metempsychosis]]                                           | 01-11-2025   |
+
+{ .block-language-dataview}
 
 ## recent edits
-```dataview
-table dateformat(date-modified, "dd-MM-yyyy") AS "date editted"
-where dg-publish = true AND date-modified
-sort date-modified DESC
-limit 5
-```
+| File                                                                                                                                 | date editted |
+| ------------------------------------------------------------------------------------------------------------------------------------ | ------------ |
+| [[03 areas/Tech/Tools/AI/AI tools\|AI tools]]                                                                                     | 06-09-2025   |
+| [[03 projects/02 ongoing/komunikacja i budowanie relacji - krzysztof m. maj\|komunikacja i budowanie relacji - krzysztof m. maj]] | 20-08-2025   |
+| [[03 areas/Psychology/personality types MBTI\|personality types MBTI]]                                                            | 15-08-2025   |
+| [[03 areas/Psychology/personality types MBTI/INFJ\|INFJ]]                                                                         | 31-07-2025   |
+
+{ .block-language-dataview}
 
 - - -
 # topics
