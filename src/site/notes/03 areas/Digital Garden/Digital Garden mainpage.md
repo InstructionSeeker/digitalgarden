@@ -12,25 +12,20 @@ so, don’t take anything too seriously here*
 - - -
 # activity
 ## recent entries
-| File                                                                                                                | date created |
-| ------------------------------------------------------------------------------------------------------------------- | ------------ |
-| [[03 areas/creative/Writing/Write Place/czernowik/13.12.2025\|13.12.2025]]                                       | 13-12-2025   |
-| [[03 areas/creative/Writing/Write Place/czernowik/29.11.2025 - a sloth\|29.11.2025 - a sloth]]                   | 29-11-2025   |
-| [[03 areas/creative/Writing/Write Place/czernowik/01.11.2025 – metempsychosis\|01.11.2025 – metempsychosis]]     | 01-11-2025   |
-| [[03 areas/creative/Writing/Write Place/czernowik/25.10.2025 – Butterfly Effect\|25.10.2025 – Butterfly Effect]] | 25-10-2025   |
-| [[03 areas/creative/Writing/Write Place/czernowik/18.10.2025 – the mushroom\|18.10.2025 – the mushroom]]         | 18-10-2025   |
-
-{ .block-language-dataview}
+```dataview
+table dateformat(date-created, "dd-MM-yyyy") AS "date created"
+where dg-publish = true AND date-created
+sort file.ctime DESC
+limit 5
+```
 
 ## recent edits
-| File                                                                                                                                 | date editted |
-| ------------------------------------------------------------------------------------------------------------------------------------ | ------------ |
-| [[03 areas/Tech/Tools/AI/AI tools\|AI tools]]                                                                                     | 06-09-2025   |
-| [[03 projects/02 ongoing/komunikacja i budowanie relacji - krzysztof m. maj\|komunikacja i budowanie relacji - krzysztof m. maj]] | 20-08-2025   |
-| [[03 areas/Psychology/personality types MBTI\|personality types MBTI]]                                                            | 15-08-2025   |
-| [[03 areas/Psychology/personality types MBTI/INFJ\|INFJ]]                                                                         | 31-07-2025   |
-
-{ .block-language-dataview}
+```dataview
+table dateformat(date-modified, "dd-MM-yyyy") AS "date editted"
+where dg-publish = true AND date-modified
+sort date-modified DESC
+limit 5
+```
 
 - - -
 # topics
