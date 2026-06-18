@@ -17,6 +17,7 @@ What you can expect here is that I happen to gravitate to horror and unexplainab
 
 | File                                                                                                                                                      | date created |
 | --------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------ |
+| [[03 areas/creative/Writing/Write Place/czernowik/21.02.2026 – will see\|21.02.2026 – will see]]                                                       | 21-02-2026   |
 | [[03 areas/creative/Writing/Write Place/czernowik/31.01.2026 - dream the world you want to live in\|31.01.2026 - dream the world you want to live in]] | 31-01-2026   |
 | [[03 areas/creative/Writing/Write Place/czernowik/10.01.2026 - zombies\|10.01.2026 - zombies]]                                                         | 10-01-2026   |
 | [[03 areas/creative/Writing/Write Place/czernowik/13.12.2025\|13.12.2025]]                                                                             | 13-12-2025   |
