@@ -14,11 +14,11 @@ so, don’t take anything too seriously here*
 ## recent entries
 | File                                                                                                                                                      | date created |
 | --------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------ |
+| [[03 areas/creative/Writing/Write Place/czernowik/06.06.2025 – legend\|06.06.2025 – legend]]                                                           | 06-06-2026   |
 | [[03 areas/creative/Writing/Write Place/czernowik/21.02.2026 – will see\|21.02.2026 – will see]]                                                       | 21-02-2026   |
 | [[05 fleeting/tongue twisters\|tongue twisters]]                                                                                                       | 09-02-2026   |
 | [[03 areas/creative/Writing/Write Place/czernowik/31.01.2026 - dream the world you want to live in\|31.01.2026 - dream the world you want to live in]] | 31-01-2026   |
 | [[03 areas/creative/Writing/Write Place/czernowik/10.01.2026 - zombies\|10.01.2026 - zombies]]                                                         | 10-01-2026   |
-| [[03 areas/creative/Writing/Write Place/czernowik/13.12.2025\|13.12.2025]]                                                                             | 13-12-2025   |
 
 { .block-language-dataview}
 
