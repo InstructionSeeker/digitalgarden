@@ -1,5 +1,5 @@
 ---
-{"date created":"2025-08-18","date modified":"2026-06-18","dg-publish":true,"dg-home":false,"dg-note-icon":null,"tags":["sound","sound_design","vfx"],"aliases":null,"permalink":"/03-areas/creative/music/music-production/vstplugins/vst-plugins/","dgPassFrontmatter":true,"noteIcon":null,"created":"2025-08-18T10:59:51.624+02:00","updated":"2026-06-24T23:37:34.260+02:00"}
+{"date created":"2025-08-18","date modified":"2026-06-18","dg-publish":true,"dg-home":false,"dg-note-icon":null,"tags":["sound","sound_design","vfx"],"aliases":null,"permalink":"/03-areas/creative/music/music-production/vstplugins/vst-plugins/","dgPassFrontmatter":true,"noteIcon":null,"created":"2025-08-18T10:59:51.624+02:00","updated":"2026-06-27T01:18:22.121+02:00"}
 ---
 
 **If you know any great free or cheap plugins, please let me know!!**
@@ -9,6 +9,11 @@ below will be an evergrowing list of plugins I’ve tried… Will see what comes
 - - -
 # voice
 
+## effects
+[[03 areas/creative/Music/Music production/vstplugins/Techivation T-De-Esser 2\|Techivation T-De-Esser 2]]
+[[03 areas/creative/Music/Music production/vstplugins/Tokyo Dawn Labs TDR Nova\|Tokyo Dawn Labs TDR Nova]]
+[[03 areas/creative/Music/Music production/vstplugins/Valhalla Supermassive\|Valhalla Supermassive]]
+[[03 areas/creative/Music/Music production/vstplugins/ValhallaFreqEcho\|ValhallaFreqEcho]]
 
 # serum/omnisphere replacements:
 *gotta replace serum, omnispehere and kontakt with something else…*
