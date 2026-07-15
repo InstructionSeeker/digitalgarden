@@ -1,5 +1,5 @@
 ---
-{"date created":"2025-08-18","date modified":"2026-06-18","dg-publish":true,"dg-home":false,"dg-note-icon":null,"tags":["sound","sound_design","vfx"],"aliases":null,"permalink":"/03-areas/creative/music/music-production/vstplugins/vst-plugins/","dgPassFrontmatter":true,"noteIcon":null,"created":"2025-08-18T10:59:51.624+02:00","updated":"2026-06-27T01:18:22.121+02:00"}
+{"date created":"2025-08-18","date modified":"2026-06-18","dg-publish":true,"dg-home":false,"dg-note-icon":null,"tags":["sound","sound_design","vfx"],"aliases":null,"permalink":"/03-areas/creative/music/music-production/vstplugins/vst-plugins/","dgPassFrontmatter":true,"noteIcon":null,"created":"2025-08-18T10:59:51.624+02:00","updated":"2026-06-27T01:18:22.121+02:00","dg-note-properties":{"date created":"2025-08-18","date modified":"2026-06-18","tags":["sound","sound_design","vfx"],"aliases":null}}
 ---
 
 **If you know any great free or cheap plugins, please let me know!!**
@@ -52,4 +52,23 @@ below will be an evergrowing list of plugins I’ve tried… Will see what comes
 - [[Kuassa Amplifikation Lite\|Kuassa Amplifikation Lite]] – amp
 
 # table
-![[vst plugins.base]]
+
+```base
+filters:
+  and:
+    - file.hasTag("vstplugin")
+    - file.inFolder("03 areas/creative/Music/Music production/vstplugins")
+views:
+  - type: table
+    name: Table
+    order:
+      - file.name
+      - instrument
+      - free
+      - features
+      - usage
+      - notes
+    columnSize:
+      file.name: 220
+
+```
