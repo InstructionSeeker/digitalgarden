@@ -1,11 +1,11 @@
 ---
-{"date created":"2024-02-27","date modified":"2025-09-06","dg-publish":true,"dg-home":false,"dg-note-icon":null,"tags":["AI"],"aliases":null,"source":"https://www.youtube.com/watch?v=1JMVUfuqn2M&","permalink":"/03-areas/tech/tools/ai/ai-tools/","dgPassFrontmatter":true,"noteIcon":null,"created":"2024-02-27T01:52:10.109+01:00","updated":"2025-09-17T01:20:13.182+02:00","dg-note-properties":{"date created":"2024-02-27","date modified":"2025-09-06","tags":["AI"],"aliases":null,"source":"https://www.youtube.com/watch?v=1JMVUfuqn2M&"}}
+{"date created":"2024-02-27","date modified":"2025-09-06","dg-publish":true,"dg-home":false,"dg-note-icon":null,"tags":["AI"],"aliases":null,"source":"https://www.youtube.com/watch?v=1JMVUfuqn2M&","permalink":"/03-areas/tech/tools/ai/ai-tools/","dgPassFrontmatter":true,"noteIcon":null,"created":"2024-02-27T01:52:10.109+01:00","updated":"2026-07-15T10:51:27.581+02:00","dg-note-properties":{"date created":"2024-02-27","date modified":"2025-09-06","tags":["AI"],"aliases":null,"source":"https://www.youtube.com/watch?v=1JMVUfuqn2M&"}}
 ---
 
 # AIs
 ## LLMs
 - Consensus – more credible sources
-- ChatGPT –
+- ChatGPT – DEAD, AVOID
 - Claude – human element in responses, emphatic
 - Duck AI – 
 - Lovable – building apps/coding

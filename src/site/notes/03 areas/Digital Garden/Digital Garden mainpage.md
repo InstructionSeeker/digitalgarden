@@ -25,7 +25,7 @@ so, don’t take anything too seriously here*
 ## recent edits
 | File                                                                                                                                 | date editted |
 | ------------------------------------------------------------------------------------------------------------------------------------ | ------------ |
-| [[03 areas/creative/Music/Music production/vstplugins/vst plugins\|vst plugins]]                                                  | 18-06-2026   |
+| [[03 areas/creative/Music/Music production/vstplugins/vst plugins\|vst plugins]]                                                  | 15-07-2026   |
 | [[03 areas/Tech/Tools/AI/AI tools\|AI tools]]                                                                                     | 06-09-2025   |
 | [[03 projects/02 ongoing/komunikacja i budowanie relacji - krzysztof m. maj\|komunikacja i budowanie relacji - krzysztof m. maj]] | 20-08-2025   |
 | [[03 areas/Psychology/personality types MBTI\|personality types MBTI]]                                                            | 15-08-2025   |
