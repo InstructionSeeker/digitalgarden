@@ -1,5 +1,5 @@
 ---
-{"date created":"2025-07-23","dg-publish":true,"dg-home":false,"dg-pinned":true,"dg-note-icon":"1","tags":null,"aliases":null,"weekday":["weekend"],"focus":true,"category":"community","permalink":"/03-areas/creative/writing/write-place/the-write-place/","pinned":true,"dgPassFrontmatter":true,"noteIcon":"1","created":"2025-07-23T19:14:31.133+02:00","updated":"2026-01-10T22:06:54.356+01:00"}
+{"date created":"2025-07-23","dg-publish":true,"dg-home":false,"dg-pinned":true,"dg-note-icon":"1","tags":null,"aliases":null,"weekday":["weekend"],"focus":true,"category":"community","permalink":"/03-areas/creative/writing/write-place/the-write-place/","pinned":true,"dgPassFrontmatter":true,"noteIcon":"1","created":"2025-07-23T19:14:31.133+02:00","updated":"2026-01-10T22:06:54.356+01:00","dg-note-properties":{"date created":"2025-07-23","tags":null,"aliases":null,"weekday":["weekend"],"focus":true,"category":"community"}}
 ---
 
 note about my writing

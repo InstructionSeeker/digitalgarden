@@ -1,5 +1,5 @@
 ---
-{"date created":"2025-08-15","date modified":null,"dg-publish":true,"dg-home":false,"dg-note-icon":"1","tags":null,"aliases":null,"permalink":"/03-areas/creative/music/grooveboxes/","dgPassFrontmatter":true,"noteIcon":"1","created":"2025-08-15T16:37:53.217+02:00","updated":"2025-09-06T17:51:20.415+02:00"}
+{"date created":"2025-08-15","date modified":null,"dg-publish":true,"dg-home":false,"dg-note-icon":"1","tags":null,"aliases":null,"permalink":"/03-areas/creative/music/grooveboxes/","dgPassFrontmatter":true,"noteIcon":"1","created":"2025-08-15T16:37:53.217+02:00","updated":"2025-09-06T17:51:20.415+02:00","dg-note-properties":{"date created":"2025-08-15","date modified":null,"tags":null,"aliases":null}}
 ---
 
 me figuring out how to go around learning doing some loops with grooveboxes…

@@ -70,5 +70,17 @@ views:
       - notes
     columnSize:
       file.name: 220
+  - type: table
+    name: Table config
+    order:
+      - file.name
+      - instrument
+      - free
+      - features
+      - usage
+      - notes
+      - dg-publish
+    columnSize:
+      file.name: 220
 
 ```

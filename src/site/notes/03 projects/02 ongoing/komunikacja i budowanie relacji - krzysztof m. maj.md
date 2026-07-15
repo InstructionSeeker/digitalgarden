@@ -1,5 +1,5 @@
 ---
-{"date created":"2025-08-03","date modified":"2025-08-20","dg-publish":true,"dg-home":false,"dg-note-icon":"1","tags":["research"],"aliases":null,"permalink":"/03-projects/02-ongoing/komunikacja-i-budowanie-relacji-krzysztof-m-maj/","dgPassFrontmatter":true,"noteIcon":"1","created":"2025-08-03T17:57:20.940+02:00","updated":"2025-09-06T17:51:24.583+02:00"}
+{"date created":"2025-08-03","date modified":"2025-08-20","dg-publish":true,"dg-home":false,"dg-note-icon":"1","tags":["research"],"aliases":null,"permalink":"/03-projects/02-ongoing/komunikacja-i-budowanie-relacji-krzysztof-m-maj/","dgPassFrontmatter":true,"noteIcon":"1","created":"2025-08-03T17:57:20.940+02:00","updated":"2025-09-06T17:51:24.583+02:00","dg-note-properties":{"date created":"2025-08-03","date modified":"2025-08-20","tags":["research"],"aliases":null}}
 ---
 
 źródło: https://www.youtube.com/watch?v=8rFUSHbbsgo

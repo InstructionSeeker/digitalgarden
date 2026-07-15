@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-home":true,"dg-pinned":true,"dg-path":"00 main","dg-note-icon":"signpost","title":"mainpage","permalink":"/00-main/","pinned":true,"tags":["gardenEntry"],"dgPassFrontmatter":true,"noteIcon":"signpost","created":"2025-07-23T19:15:13.755+02:00","updated":"2025-09-06T22:06:33.312+02:00"}
+{"dg-publish":true,"dg-home":true,"dg-pinned":true,"dg-path":"00 main","dg-note-icon":"signpost","title":"mainpage","permalink":"/00-main/","pinned":true,"tags":["gardenEntry"],"dgPassFrontmatter":true,"noteIcon":"signpost","created":"2025-07-23T19:15:13.755+02:00","updated":"2025-09-06T22:06:33.312+02:00","dg-note-properties":{"title":"mainpage"}}
 ---
 
 *this space is a “Digital Garden” 🌱 [(what is a Digital Garden?)](https://www.thunknotes.com/blog/what-is-a-digital-garden)

@@ -1,5 +1,5 @@
 ---
-{"date created":"2025-09-06","date modified":null,"dg-publish":true,"dg-home":false,"dg-note-icon":null,"tags":null,"aliases":null,"permalink":"/04-resources/ai-prompts/prompt-guidelines/","dgPassFrontmatter":true,"noteIcon":null,"created":"2025-09-06T18:40:20.269+02:00","updated":"2025-09-06T22:00:21.215+02:00"}
+{"date created":"2025-09-06","date modified":null,"dg-publish":true,"dg-home":false,"dg-note-icon":null,"tags":null,"aliases":null,"permalink":"/04-resources/ai-prompts/prompt-guidelines/","dgPassFrontmatter":true,"noteIcon":null,"created":"2025-09-06T18:40:20.269+02:00","updated":"2025-09-06T22:00:21.215+02:00","dg-note-properties":{"date created":"2025-09-06","date modified":null,"tags":null,"aliases":null}}
 ---
 
 #technology/AI #AI/prompt 

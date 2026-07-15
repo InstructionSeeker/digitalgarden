@@ -1,5 +1,5 @@
 ---
-{"date created":"2025-07-28","dg-publish":true,"dg-home":false,"dg-note-icon":"1","tags":null,"aliases":null,"permalink":"/03-areas/digital-garden/manifesting-page/","dgPassFrontmatter":true,"noteIcon":"1","created":"2025-07-28T23:13:16.934+02:00","updated":"2025-09-06T17:51:25.383+02:00"}
+{"date created":"2025-07-28","dg-publish":true,"dg-home":false,"dg-note-icon":"1","tags":null,"aliases":null,"permalink":"/03-areas/digital-garden/manifesting-page/","dgPassFrontmatter":true,"noteIcon":"1","created":"2025-07-28T23:13:16.934+02:00","updated":"2025-09-06T17:51:25.383+02:00","dg-note-properties":{"date created":"2025-07-28","tags":null,"aliases":null}}
 ---
 
 ## who am I
